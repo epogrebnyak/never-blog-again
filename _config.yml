@@ -1,6 +1,6 @@
 # remote_theme: poole/lanyon
 # remote_theme: mmistakes/minimal-mistakes 
 remote_theme: pages-themes/primer # jekyll-theme-primer
-title: The title of my site
-description: Where does a short description of my site's purpose go?
+title: ""
+description: "Where does a short description of my site's purpose go?"
 #google_analytics: [Your Google Analytics tracking ID]
