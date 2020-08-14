@@ -1,2 +1,3 @@
 # remote_theme: poole/lanyon
-remote_theme: mmistakes/minimal-mistakes 
+# remote_theme: mmistakes/minimal-mistakes 
+remote_theme: pages-themes/primer # jekyll-theme-primer
