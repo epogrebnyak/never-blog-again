@@ -1,4 +1,4 @@
 # never-blog-again
 Sandbox for new GH Pages themes
 
-<!-- Trigger build -->
+See result at https://epogrebnyak.github.io/never-blog-again/
